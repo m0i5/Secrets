@@ -69,9 +69,6 @@ app.post("/register", function (req, res) {
                 console.log("Error while saving data")
             })
     });
-
-
-
 });
 
 
